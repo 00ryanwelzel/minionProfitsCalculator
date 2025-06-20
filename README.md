@@ -1,5 +1,14 @@
-(Ryan Welzel 4/10/2025) 
+# minionProfitsCalculator
 
-minionProfitsCalculator: 
+## (Ryan Welzel dont/remember/the_date)
 
-Script I wrote a while ago to calculate profits in a game I like. Second time working with beautifulSoup, great library!
+Accesses an online database for current item prices in hypixel skyblock, then calculates the most profitable minions.
+
+---
+
+Features:
+- Details best money making minions at any given time
+
+
+Requirements:
+- beautifulSoup4
